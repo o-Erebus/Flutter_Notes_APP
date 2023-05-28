@@ -15,7 +15,16 @@ The Flutter Notes App allows users to create, edit, and delete notes. It provide
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/1.png)
+![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/2.png)
+![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/3.png)
+![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/4.png)
+![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/5.png)
+![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/6.png)
+![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/7.png)
+![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/8.png)
+![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/9.png)
+![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/10.png)
 
 ## Getting Started
 
