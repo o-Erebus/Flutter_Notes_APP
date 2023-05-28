@@ -15,16 +15,11 @@ The Flutter Notes App allows users to create, edit, and delete notes. It provide
 
 ## Screenshots
 
-![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/1.png)
-![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/2.png)
-![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/3.png)
-![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/4.png)
-![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/5.png)
-![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/6.png)
-![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/7.png)
-![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/8.png)
-![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/9.png)
-![App Screenshot](https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/10.png)
+
+<img src="https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/1.png" width="100" alt="App Screenshot 1"> <img src="https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/2.png" width="100" alt="App Screenshot 2"> <img src="https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/3.png" width="100" alt="App Screenshot 3">
+<img src="https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/4.png" width="100" alt="App Screenshot 4"> <img src="https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/5.png" width="100" alt="App Screenshot 5"> <img src="https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/6.png" width="100" alt="App Screenshot 6">
+<img src="https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/7.png" width="100" alt="App Screenshot 7"> <img src="https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/8.png" width="100" alt="App Screenshot 8"> <img src="https://github.com/o-Erebus/Flutter_Notes_APP/blob/master/screenshots/9.png" width="100" alt="App Screenshot 9">
+
 
 ## Getting Started
 
