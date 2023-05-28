@@ -1,16 +1,64 @@
-# cie_03
+# Flutter Notes App
 
-A new Flutter project.
+A Flutter application for taking and managing notes.
+
+## Description
+
+The Flutter Notes App allows users to create, edit, and delete notes. It provides a user-friendly interface for managing personal notes.
+
+## Features
+
+- Create new notes with a title and text content
+- Edit existing notes
+- Delete notes
+- Notes are stored locally using shared preferences
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with the Flutter Notes App, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/o-Erebus/Flutter_Notes_APP.git
+```
+
+2. Change to the project directory:
+
+```bash
+cd Flutter_Notes_APP
+```
+
+3. Install dependencies:
+
+```bash
+flutter pub get
+```
+
+### Usage
+
+1. Run the app:
+
+```bash
+flutter run
+```
+
+2. The app should launch on your connected device or simulator.
+
+### Contributing
+
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please submit an issue or a pull request.
+
+### License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](LICENSE) file for details.
